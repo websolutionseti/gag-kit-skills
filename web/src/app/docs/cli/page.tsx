@@ -47,7 +47,7 @@ export default function CLIPage() {
                         </p>
 
                         <div className="relative group mb-4">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit init</code>
                             </pre>
                         </div>
@@ -72,7 +72,7 @@ export default function CLIPage() {
                         </p>
 
                         <div className="relative group mb-4">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit update</code>
                             </pre>
                         </div>
@@ -94,7 +94,7 @@ export default function CLIPage() {
                         </p>
 
                         <div className="relative group mb-4">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit status</code>
                             </pre>
                         </div>
@@ -188,7 +188,7 @@ export default function CLIPage() {
                             Force reinstall
                         </h3>
                         <div className="relative group">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit init --force</code>
                             </pre>
                         </div>
@@ -199,7 +199,7 @@ export default function CLIPage() {
                             Install in specific directory
                         </h3>
                         <div className="relative group">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit init --path ./my-project</code>
                             </pre>
                         </div>
@@ -210,7 +210,7 @@ export default function CLIPage() {
                             Use development branch
                         </h3>
                         <div className="relative group">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit init --branch dev</code>
                             </pre>
                         </div>
@@ -221,7 +221,7 @@ export default function CLIPage() {
                             Silent install for CI/CD
                         </h3>
                         <div className="relative group">
-                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                            <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                                 <code className="text-zinc-100">ag-kit init --quiet --force</code>
                             </pre>
                         </div>

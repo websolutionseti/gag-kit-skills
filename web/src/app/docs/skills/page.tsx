@@ -148,7 +148,7 @@ export default function SkillsPage() {
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`skills/
 └── react-patterns/
     ├── SKILL.md         # Main documentation

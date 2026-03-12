@@ -32,7 +32,7 @@ export default function InstallationPage() {
           The fastest way to install Antigravity Kit is using <code className="px-1.5 py-0.5 rounded bg-zinc-100 dark:bg-zinc-800 text-sm font-mono">npx</code> in root project:
         </p>
 
-        <pre className="p-4 rounded-lg bg-zinc-950 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
+        <pre className="p-4 rounded-lg bg-zinc-900 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
           npx @vudovn/ag-kit init
         </pre>
 
@@ -49,11 +49,11 @@ export default function InstallationPage() {
           Install the CLI globally to use <code className="px-1.5 py-0.5 rounded bg-zinc-100 dark:bg-zinc-800 text-sm font-mono">ag-kit</code> command anywhere:
         </p>
 
-        <pre className="p-4 rounded-lg bg-zinc-950 overflow-x-auto mb-2 text-sm font-mono text-zinc-100">
+        <pre className="p-4 rounded-lg bg-zinc-900 overflow-x-auto mb-2 text-sm font-mono text-zinc-100">
           npm install -g @vudovn/ag-kit
         </pre>
 
-        <pre className="p-4 rounded-lg bg-zinc-950 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
+        <pre className="p-4 rounded-lg bg-zinc-900 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
           cd your-project && ag-kit init
         </pre>
 
@@ -70,7 +70,7 @@ export default function InstallationPage() {
           After running the installation command, you'll have the following structure:
         </p>
 
-        <pre className="p-4 rounded-lg bg-zinc-950 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
+        <pre className="p-4 rounded-lg bg-zinc-900 overflow-x-auto mb-4 text-sm font-mono text-zinc-100">
 {`.agent/
 ├── agents/          # 16 Specialist Agents
 ├── skills/          # 40+ Skills

@@ -47,7 +47,7 @@ export default function AgentsPage() {
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`You: "Add JWT authentication"
 AI: 🤖 Applying @security-auditor + @backend-specialist...
 
@@ -64,7 +64,7 @@ AI: 🤖 Using @debugger for systematic analysis...`}</code>
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`Use the security-auditor agent to review authentication...`}</code>
                     </pre>
                 </div>
@@ -115,7 +115,7 @@ AI: 🤖 Using @debugger for systematic analysis...`}</code>
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`---
 name: frontend-specialist
 description: Frontend architect expert

@@ -51,7 +51,7 @@ export default function WorkflowsPage() {
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`/brainstorm authentication system
 /create landing page with hero section
 /debug why login fails`}</code>
@@ -112,7 +112,7 @@ export default function WorkflowsPage() {
                 </p>
 
                 <div className="relative group mb-6">
-                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-950 overflow-x-auto border border-zinc-800 font-mono text-sm">
+                    <pre className="p-4 rounded-lg bg-zinc-900 dark:bg-zinc-900 overflow-x-auto border border-zinc-800 font-mono text-sm">
                         <code className="text-zinc-100">{`---
 description: Deploy application to staging
 ---

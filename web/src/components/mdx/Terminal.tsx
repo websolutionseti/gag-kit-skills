@@ -6,7 +6,7 @@ interface TerminalProps {
 
 export function Terminal({ children }: TerminalProps) {
   return (
-    <div className="bg-zinc-950 rounded-lg p-4 font-mono text-sm text-zinc-300 mb-6 overflow-x-auto">
+    <div className="bg-zinc-900 rounded-lg p-4 font-mono text-sm text-zinc-300 mb-6 overflow-x-auto">
       {children}
     </div>
   );
